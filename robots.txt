@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sodaro-coder.github.io/site-c6b981/sitemap.xml
